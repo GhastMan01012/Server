@@ -1,0 +1,32 @@
+{
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2020-11-14 12:37:29 +1000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2020-11-14 12:37:29 +1000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2020-11-13 23:03:52 +1000",
+      "minecraft:taiga": "2020-11-13 22:27:00 +1000",
+      "minecraft:savanna_plateau": "2020-11-13 23:02:48 +1000",
+      "minecraft:beach": "2020-11-13 23:04:00 +1000",
+      "minecraft:wooded_hills": "2020-11-14 12:39:36 +1000",
+      "minecraft:plains": "2020-11-14 12:37:13 +1000"
+    },
+    "done": false
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2020-11-14 12:37:29 +1000"
+    },
+    "done": false
+  },
+  "DataVersion": 2584
+}
